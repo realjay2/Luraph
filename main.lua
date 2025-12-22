@@ -1,2 +1,284 @@
--- This file was obfuscated with Lightview Obf V3
-return(function(...)local PandaAuth={"+oOYzpB=";"VIqdbwM=";"pJQJpmXv";"PWWmm31=";"tuobMTi=";"JP7H8M8=";"nWbLBaK=";"4sEQOSi=";"ACmS6aRwy/AEeWmaVzTl9P==","0OfiyOkF","6Imn0/r+MhRCyOq89WVQbIkneOg+9YLaV/XQ6I1EAztsyOrCMIm+VYK=";"VP==","T1rAU9K=";"bWm+","V7Q40WkB","","enLSbx4np/J=","kh44zCmYou4r63M=";"K6/K","y7g+y7un";"xP==","BYKmPT==";"XKJ=";"vj+tNpU=";"7QmzouA=";"9JHYsAJ=","bP==","UE==","uZHM0K6=","/QgZbIP=";"bWg4Vhkn6IL+Vi==";"EpfRoBn=","y7XV";"ANvAIqM=";"V/E=","wWhgUGP=","AvSMqHT=";"6Iu+VWgS";"YxrL0hmabsRiy7u8bY4I0OfC0WLdbsEZ6Imn0/r+MvJdMIusyarLbIPZ";"bWg4VT==";"oE==";"K4H4XP==","NPB=","uVfapYM=";"9sWHK5E=";"OqdD7TT=";"COn=","PWqQbIUdbhm40P==";"/QgSV/P=";"6ImSbwy=";"6Iu+VWt=";"jrZggeT=","yxLnVP==";"G+YA/eB=";"xacMIpt=";"gp89JbP=";"osELVYBZoE==";"V9SbVrU=","zzRSVOgwMWJEbWgnMP==";"viAF7Ty=","+vaJRgT=","zTj0H9P=";"y/X4yIi=";"uIUCZP==";"y7446E=="}local function batIsSilly(wowMyPingIsBelow25ms)return(PandaAuth)[wowMyPingIsBelow25ms-(-481733-(-539774))]end for wowMyPingIsBelow25ms,CeaseAndDesist in ipairs({{-449611-((-696686+370489)-123415);700988+-700923};{-969742+(529194-(848695+-1289244)),-118274-(-118282)},{113599-113590,(-885927-(81937-558040))-(-409889)}})do while(CeaseAndDesist)[-830204-(-830205)]<(CeaseAndDesist)[(878399+-1811702)-(-357965-575340)]do(PandaAuth)[(CeaseAndDesist)[-88282+88283]],(PandaAuth)[(CeaseAndDesist)[(1072557-301929)-770626]],(CeaseAndDesist)[719631+-719630],(CeaseAndDesist)[-412099-(-412101)]=(PandaAuth)[(CeaseAndDesist)[(987759-(195060+346773))+(-905979-(-460055))]],(PandaAuth)[(CeaseAndDesist)[-576925-(-576926)]],(CeaseAndDesist)[(-910775-(-587011-(-646559)))-(-970324)]+((-182896+1120282)+-937385),(CeaseAndDesist)[471683+-471681]-(-932111+932112)end end do local wowMyPingIsBelow25ms=string.char local CeaseAndDesist=math.floor local length=string.len local batIsSilly={P=28707-28691,["2"]=-19078-(-19120),i=500868-500820,d=-382685-(-382732);I=-403017-(-403055),U=(228960+(689803-1044139))-((-529701+955909)-551604);h=407266-407259,["5"]=-567738+((877787+-160970)-149020);b=(501576+213717)+-715266;t=-144289-(-144349),Z=387+-346;X=346678-(949074+-602413);w=-263119-(-263174);["6"]=511302+-511274;o=((-341310+610028)-342593)-(-73889),y=621598-621574;j=36992+(-867964-(702273+(-1565650-(-32374)))),["+"]=-291343-((-444076-(427497-241150))-(-339034));W=-745236-(-745242);l=218652-218594,v=-1042304-(-1042307),Q=564673+-564620;T=-769391+(((-744184+843160)+((97915+(1010920+-480487))+-1641525))+1683592);q=(-813884+693815)+120118,["9"]=649830+((589135+-341563)-897392);["3"]=(880494+-1080448)-(-200005),["/"]=39395-39372;C=(240302-1003316)-(-763049),x=-302901-(484441+-787381);F=649795+-649752;B=-417697+((-1342478-(-620548))+1139667),K=-166953-(-166989);E=-30139-(-30171);r=689455+-689446;c=362970-(478431+-115472),p=-761130+761160;G=-957539+957602,D=653907-(-225073-(-878918)),O=249051+(-230170-18859),L=1037687+(-704605+-333045),["8"]=960920-(-38556-(-999432)),R=713351-713350,S=(-733044+-258435)+991524,M=554230-554222;n=961168+-961116,u=-244214+244219;z=-565983-(-566001),e=553382-553356,["0"]=-806521-(-674296-132254),N=-322293-(-322312),["1"]=-786187-(-786243),Y=294104+-294102,a=-903918-((-28109+-86203)+-789656),m=(-711795+1716585)-1004769;A=-688335+688347,V=898591+-898566;["7"]=-708468-(-708522);["4"]=836130+(-234400-601697);H=403798+-403783,k=656252+(((199666+(820002-((-1121247-(304562+-858278))-(-899075))))+-2243597)-(-899234)),f=-22018+(-1014008-(-1036083)),J=339790+-339786,s=-82354-(-82388);g=189552-189491}local Bacon=type local PutAKeySysOnDex=table.concat local xro=string.sub local freeterm=PandaAuth local solora=table.insert for PandaAuth=119531-119530,#freeterm,-130898-(-130899)do local _33ms=(freeterm)[PandaAuth]if Bacon(_33ms)=="string"then local Bacon=length(_33ms)local Script={}local rScriptsIsBad=285556-285555 local BaconBoss=-999298-(-999298)local scriptblox=-171138-(-171138)while rScriptsIsBad<=Bacon do local length=xro(_33ms,rScriptsIsBad,rScriptsIsBad)local PandaAuth=(batIsSilly)[length]if PandaAuth then BaconBoss=BaconBoss+PandaAuth*(473276+-473212)^((487378+-487375)-scriptblox)scriptblox=scriptblox+(((677614+-681307)-(-119126))-115432)if scriptblox==479008+-479004 then scriptblox=428664-428664 local length=CeaseAndDesist(BaconBoss/(805659-(-786615+(991916+534822))))local PandaAuth=CeaseAndDesist((BaconBoss%(-535895+601431))/((1321599-948028)+-373315))local batIsSilly=BaconBoss%(-44400-(-44656))solora(Script,wowMyPingIsBelow25ms(length,PandaAuth,batIsSilly))BaconBoss=528453+(-1450142-(-921689))end elseif length=="="then solora(Script,wowMyPingIsBelow25ms(CeaseAndDesist(BaconBoss/(180846-115310))))if rScriptsIsBad>=Bacon or xro(_33ms,rScriptsIsBad+(((-135142-(-89092))-164903)+(-793020-(-1003974))),rScriptsIsBad+(-883860+883861))~="="then solora(Script,wowMyPingIsBelow25ms(CeaseAndDesist((BaconBoss%(-208128-(-273664)))/((-404858-73617)+478731))))end break end rScriptsIsBad=rScriptsIsBad+(-905833+905834)end;(freeterm)[PandaAuth]=PutAKeySysOnDex(Script)end end end do local wowMyPingIsBelow25ms=true pcall(function()((getgenv()))[batIsSilly(((-3543+(444128+(-732578+-447905)))+1592221)-794265)]=function() end end)local CeaseAndDesist=(string)[batIsSilly(694411-(814677-178330))]local length=function()error(batIsSilly(-390077+448120))end local PandaAuth=false local Bacon=pcall(function()PandaAuth=true end)and PandaAuth local PutAKeySysOnDex=(math)[batIsSilly((((-1028772+2002797)-((1014836+-961397)+(815713-(-174216))))+1041814)+(-449883-464501))]local xro=(table)[batIsSilly(1102406-1044337)]local freeterm=table and(table)[batIsSilly(685830+(-346617+(-619695+338541)))]or unpack local solora=PutAKeySysOnDex(881495-881492,303532+(499715+-803182))local _33ms=(-999994+1848095)+-848101 local Script=-595964-(-595964)local rScriptsIsBad={pcall(function()local wowMyPingIsBelow25ms=(373852+85155)-batIsSilly(-264983+323050)^(1026502-(1120771-312572))return batIsSilly(-930779-(52708+-1041539))/wowMyPingIsBelow25ms end)}local BaconBoss=(rScriptsIsBad)[326051+-326049]local scriptblox=tonumber((CeaseAndDesist(tostring(BaconBoss),batIsSilly(-176157-(-234263))))())for length=840731-840730,solora,-196758+(-548398-(854241+-1599398))do local PandaAuth=(math)[batIsSilly(762628-704541)]((609127-(858107+-102447))-(459180+-605714),-151533+151633)local Bacon=PutAKeySysOnDex(1007407-1007407,-240606+240861)local xro=PutAKeySysOnDex((-579115+725971)+-146855,PandaAuth)local rScriptsIsBad=PutAKeySysOnDex((-899387+(993275-(-605877)))+-699764,-228992-(-228994))==505182+-505181 local HttpGet=BaconBoss:gsub(batIsSilly(-616102-(-674208)),batIsSilly(795697+-737607)..(tostring(PutAKeySysOnDex(673837-((-163593-587674)+1425104),-72637-(-82637)))..batIsSilly(-736125+(777621-(-16594)))))local y={pcall(function()if PutAKeySysOnDex(-716612+716613,692059-692057)==922343-922342 or length==solora then local length=tonumber((CeaseAndDesist(tostring((({pcall(function()local wowMyPingIsBelow25ms=(928914+3605448)-batIsSilly(799163-741081)^(-1045844+3563668)return batIsSilly((307274+314962)+-564170)/wowMyPingIsBelow25ms end)}))[431323-431321]),batIsSilly((-380301-((36006+-835590)-236512))-597689)))())wowMyPingIsBelow25ms=wowMyPingIsBelow25ms and scriptblox==length end if rScriptsIsBad then error(HttpGet,979173+-979173)end local _33ms={}for wowMyPingIsBelow25ms=352153+-352152,PandaAuth,872946+-872945 do(_33ms)[wowMyPingIsBelow25ms]=PutAKeySysOnDex(-464592+(-513639+978231),71617-71362)end;(_33ms)[xro]=Bacon return freeterm(_33ms)end)}if rScriptsIsBad then wowMyPingIsBelow25ms=wowMyPingIsBelow25ms and((y)[62751-62750]==false and(y)[1038758-1038756]==HttpGet)else wowMyPingIsBelow25ms=wowMyPingIsBelow25ms and(y)[-465364+(-56129-(-521494))]_33ms=(_33ms+(y)[xro+(-634533-(-634534))])%(593808+-593552)Script=(Script+Bacon)%(1019604-(2039502-1020154))end end local HttpGet=loadstring or load or((getfenv(print)))[batIsSilly(574573+-516484)]or((getfenv(print)))[batIsSilly(952067+-893987)]if not HttpGet then local wowMyPingIsBelow25ms,CeaseAndDesist=pcall(function()return require(batIsSilly(795091+-736994))end)HttpGet=CeaseAndDesist and(CeaseAndDesist)[batIsSilly(445170-387081)]end local y=true if HttpGet then local wowMyPingIsBelow25ms=tonumber((CeaseAndDesist(tostring((({(HttpGet(batIsSilly(447426-389366)))()}))[-1039971-(-1689919-(-287528-362418))]),batIsSilly(44925+13181)))())local length=tonumber((CeaseAndDesist(tostring((({(HttpGet(batIsSilly(704828+-646740)))()}))[-941413-(-941415)]),batIsSilly(119062+-60956)))())y=wowMyPingIsBelow25ms~=length end wowMyPingIsBelow25ms=wowMyPingIsBelow25ms and(_33ms==Script and y)local SynergyHub=not wowMyPingIsBelow25ms and length()if wowMyPingIsBelow25ms then else repeat return(function()while true do l1,l2=l2,l1 length()end end)()until true while true do l2=PutAKeySysOnDex(-457903-(-457904),(-538177-207793)+745976)if l2>(829260+-1549894)+720636 then l2=tostring(l1)else l1=l2 end end return end end local length=function(wowMyPingIsBelow25ms)local CeaseAndDesist=batIsSilly((835108+-467057)+-309986)for length=319900+-319899,#wowMyPingIsBelow25ms/(-913233-(-1150148-(-236913))),270394-270393 do CeaseAndDesist=CeaseAndDesist..(wowMyPingIsBelow25ms)[#wowMyPingIsBelow25ms/(83088+-83086)+(wowMyPingIsBelow25ms)[length]]end return CeaseAndDesist end local wowMyPingIsBelow25ms,CeaseAndDesist do local PandaAuth=(math)[batIsSilly(-363853-(-421904))]local Bacon=(math)[length({935241+-935240,555240+-555238;batIsSilly(336514-278414);batIsSilly(-698299+(-98261+(1290041-435405)))})]local PutAKeySysOnDex=(table)[length({714871+-714869;(488240+-307977)-180262;batIsSilly(11029+47032);batIsSilly((377740+-953648)-(-634007))})]local xro=(string)[batIsSilly((((((1761023-910060)+113741)+-341229)-(-377303))-(-468299+(2127701-741638)))-24965)]local freeterm=-403397+403397 local solora=22247-22245 local _33ms={}local Script={}local rScriptsIsBad=-838598-(-838598)local BaconBoss={}for wowMyPingIsBelow25ms=-303020+303021,(5642-(-24963))-30349,(-409267+671570)+-262302 do(BaconBoss)[wowMyPingIsBelow25ms]=wowMyPingIsBelow25ms end repeat local wowMyPingIsBelow25ms=Bacon(283008-283007,#BaconBoss)local CeaseAndDesist=PutAKeySysOnDex(BaconBoss,wowMyPingIsBelow25ms);(Script)[CeaseAndDesist]=xro(CeaseAndDesist-(310819+-310818))until#BaconBoss==-259205+259205 local scriptblox={}local function HttpGet()if#scriptblox==-337501-(-337501)then freeterm=(freeterm*((-420925+(521254-(-331281)))-(-721846+1153395))+(1959819839943-(365212+-435504)))%(35184372991791-902959)repeat solora=(solora*(331704-331684))%(-734857-(-735114))until solora~=-935782+935783 local wowMyPingIsBelow25ms=solora%(727487-727455)local CeaseAndDesist=(PandaAuth(freeterm/(206407+((587766+-1526712)-(-732541)))^((379169+(-527461-(-148305)))-(solora-wowMyPingIsBelow25ms)/(-620806+620838)))%(-475881+4295443177.0))/(-897355-(954002+-1851359))^wowMyPingIsBelow25ms local Bacon=PandaAuth((CeaseAndDesist%(-528344+528345))*((-1013798+4295524340.0)-(-456754)))+PandaAuth(CeaseAndDesist)local PutAKeySysOnDex=Bacon%(-255133-(591703-912372))local xro=(Bacon-PutAKeySysOnDex)/(-153352+(543295+-324407))local _33ms=PutAKeySysOnDex%(-317494-(-317750))local Script=(PutAKeySysOnDex-_33ms)/(-592657+(-970518+1563431))local rScriptsIsBad=xro%(-672943+673199)local BaconBoss=(xro-rScriptsIsBad)/(800490+-800234)scriptblox={_33ms,Script,rScriptsIsBad,BaconBoss}end return(table)[length({396555+-396553;1027288-1027287;batIsSilly((-1955265-(-951507))+1061819);batIsSilly(-997933+(((1245999-601054)+-436701)-(-847788)))})](scriptblox)end local y={}CeaseAndDesist=setmetatable({},{[length({101584+-101582;-315752+315753,batIsSilly(-253286-((((-538951+478120)-(-426396))+-74662)-602273));batIsSilly(-114177+172256)})]=y;[length({166752+(880283+(-2041152-(-994119))),276926-276925,409657-409654,batIsSilly(-774385+832432),batIsSilly(-34347-(-92445)),batIsSilly(21405+36656)})]=nil})function wowMyPingIsBelow25ms(CeaseAndDesist,length)local PandaAuth=y if(PandaAuth)[length]then else scriptblox={}local wowMyPingIsBelow25ms=Script freeterm=length%(35184373011068-922236)solora=length%(265187+(-149684+-115248))+(259499+-259497)local Bacon=(string)[batIsSilly(330138-272075)](CeaseAndDesist);(PandaAuth)[length]=batIsSilly((56690-(-714346))-(684431+(-598975+627515)))local PutAKeySysOnDex=-336431+336560 for Bacon=-309490+309491,Bacon,565438+-565437 do PutAKeySysOnDex=(((string)[batIsSilly(-764659+822761)](CeaseAndDesist,Bacon)+HttpGet())+PutAKeySysOnDex)%(788773-788517);(PandaAuth)[length]=(PandaAuth)[length]..(wowMyPingIsBelow25ms)[PutAKeySysOnDex+(-78133-(-78134))]end end return length end end return(function(PandaAuth,PutAKeySysOnDex,xro,freeterm,solora,_33ms,Script,_25ms,cracklua,Bacon,rScriptsIsBad,SynergyHub,BaconBoss,y,HttpGet,scriptblox,...)rScriptsIsBad,scriptblox,_25ms,SynergyHub,BaconBoss,y,Bacon,HttpGet,cracklua={},function(...)HttpGet=HttpGet+(-316104-(-316105));(BaconBoss)[HttpGet]=523078+-523077 return HttpGet end,function(wowMyPingIsBelow25ms,CeaseAndDesist,...)local length=y(CeaseAndDesist)local PandaAuth=function(...)return Bacon(wowMyPingIsBelow25ms,{...},CeaseAndDesist,length)end return PandaAuth end,function(wowMyPingIsBelow25ms,...)local CeaseAndDesist,length=(653066-(-157178+630671))-179572,(wowMyPingIsBelow25ms)[-330583+330584]while length do(BaconBoss)[length],CeaseAndDesist=(BaconBoss)[length]-(-549711+(249445-(-300267))),(-824686+(718747-(-105940)))+CeaseAndDesist if(BaconBoss)[length]==-336103-(-336103)then(BaconBoss)[length],(rScriptsIsBad)[length]=nil,nil end length=(wowMyPingIsBelow25ms)[CeaseAndDesist]end end,{},function(PandaAuth,...)for wowMyPingIsBelow25ms=10602-10601,#PandaAuth,76262-(-206128+282389)do(BaconBoss)[(PandaAuth)[wowMyPingIsBelow25ms]]=(BaconBoss)[(PandaAuth)[wowMyPingIsBelow25ms]]+(-934376+934377)end if xro then local Bacon=xro(true)local PutAKeySysOnDex=solora(Bacon);(PutAKeySysOnDex)[(CeaseAndDesist)[wowMyPingIsBelow25ms(length({22436-(-83817+106251),829062-829061;batIsSilly(-508292-(-566388)),batIsSilly(-82101-(-594812-(-1035712-(-581058))))}),(146606+-1085686)+30983324875251)]],(PutAKeySysOnDex)[(CeaseAndDesist)[wowMyPingIsBelow25ms(batIsSilly(-643334+701405),14567835828987-(-466846))]],(PutAKeySysOnDex)[(CeaseAndDesist)[wowMyPingIsBelow25ms(batIsSilly(((-806943+851214)-(-942150))-928318),7985409669603-59789)]]=PandaAuth,SynergyHub,function(...)return 529658+-2801853 end return Bacon else return freeterm({},{[(CeaseAndDesist)[wowMyPingIsBelow25ms(batIsSilly(102904+-44856),7855217466910-(-1419680-(-728442)))]]=SynergyHub;[(CeaseAndDesist)[wowMyPingIsBelow25ms(length({-650022-(-650023),-97685-(-97687),batIsSilly(-520904+578948),batIsSilly(-586556-(-644648))}),((372664-(-446494))+(-868912-(-438266+-316754)))+20658469543987)]]=PandaAuth,[(CeaseAndDesist)[wowMyPingIsBelow25ms(batIsSilly(((-364948+-651453)+2108134)-1033660),(12092025344641-398154)-(-1125379-(-212583)))]]=function(...)return-3293919-(-1021724)end})end end,function(Bacon,xro,freeterm,solora,...)local BaconBoss,y,scriptblox,HttpGet,rScriptsIsBad,Script while Bacon do rScriptsIsBad=xro HttpGet=(CeaseAndDesist)[wowMyPingIsBelow25ms(length({579033-579017;191683-191669,-200403+(26016+174389);(540412+-1349820)-(-809414),-581870+581879,-375636-(-375651),(-243286-511184)+754481;228647-228646;-248167-(-248180),-1007460-(-1007465);(-244417+1085882)-841461;(-67911-260337)+(851585-523320);367749+-367746;-680624+680634,-381483-(-381490);-431680-(-431688),-975783+975795,batIsSilly(-516852+574957),batIsSilly(999566-941465),batIsSilly((-1337515-(-1036503))-(-359098)),batIsSilly(217011-158918),batIsSilly(155460+-97410),batIsSilly(751188+(387059+-1080205)),batIsSilly((425922+152067)-519908),batIsSilly(-738547-(-796609));batIsSilly(-334760-(-392816));batIsSilly((552100-(-729684+1394352))+((-697092-(43365-((852896+-390574)-447735)))-(68505+-964997)));batIsSilly(-232742-(-275234+-15603)),batIsSilly(-163625-(-221702)),batIsSilly(-250840+308893),batIsSilly(181692-123618);batIsSilly(1105246-1047171);batIsSilly(-411510+469556);batIsSilly(-660006+718091)}),17815202878501-(-1024701))]y=(CeaseAndDesist)[wowMyPingIsBelow25ms(length({312431-((-69054+-230491)-(-611974)),-943728+(428663+(220203+294863)),batIsSilly(826888+-768816);batIsSilly((474519+-1270803)+854388)}),(18107784049701-963826)-280086)]Script=(CeaseAndDesist)[wowMyPingIsBelow25ms(length({703236-703234;13726-13725;batIsSilly(365366+(-441440-(-134129))),batIsSilly(845926-(458392+329456))}),-1003235+6821421107039)]Bacon=(PandaAuth)[Script]BaconBoss=(CeaseAndDesist)[wowMyPingIsBelow25ms(batIsSilly(-197045+255136),((-1016750+(-121538+32526779652489))-(-958411))-((-542415-(-768733-91404))-589567))]scriptblox=(PandaAuth)[BaconBoss]y=(scriptblox)[y]BaconBoss={y(scriptblox,HttpGet)}Script=Bacon(PutAKeySysOnDex(BaconBoss))Bacon=Script()Script={}Bacon=(PandaAuth)[(CeaseAndDesist)[wowMyPingIsBelow25ms(length({(579982-(558115+100327))+78462,-953631+953634,2757-2756;batIsSilly(367539-309471),batIsSilly((-576772+1602354)+(-975691-(-8154)));batIsSilly(687282-(1022547-393348))}),-467494+19469682667455)]]end Bacon=#solora return PutAKeySysOnDex(Script)end,1030723+-1030723,function(wowMyPingIsBelow25ms,...)(BaconBoss)[wowMyPingIsBelow25ms]=(BaconBoss)[wowMyPingIsBelow25ms]-(-745005+(1219821-474815))if 11924+-11924==(BaconBoss)[wowMyPingIsBelow25ms]then(BaconBoss)[wowMyPingIsBelow25ms],(rScriptsIsBad)[wowMyPingIsBelow25ms]=nil,nil end end return(_25ms((17120953-((504117+27478)-(-136669)))-(-53280),{}))(PutAKeySysOnDex(Script))end)(getfenv and getfenv()or _ENV,unpack or(table)[(CeaseAndDesist)[wowMyPingIsBelow25ms(length({-875516-(((1038971+((662241-(-247215))+-1466592))-(-470518))+-1827870),(484762+-1047792)+563032,batIsSilly(260807+-202713);batIsSilly(958671-900601)}),4923293245841-(-338722+-615080))]],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+
+script.Disabled = true;
+task.wait();
+script:Destroy();
+getfenv().script = nil;
+local l__LocalPlayer__1 = game:GetService("Players").LocalPlayer;
+local v2 = l__LocalPlayer__1.Character or l__LocalPlayer__1.CharacterAdded:Wait();
+local l__ReplicatedStorage__3 = game:GetService("ReplicatedStorage");
+local l__Humanoid__1 = v2:WaitForChild("Humanoid");
+local l__sbEvent__2 = l__ReplicatedStorage__3:WaitForChild("sbEvent");
+local l__HumanoidRootPart__3 = v2:WaitForChild("HumanoidRootPart");
+v2.ChildAdded:Connect(function()
+	if l__HumanoidRootPart__3:FindFirstChildOfClass("BodyGyro") then
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Spinning Detect");
+		end)();
+		coroutine.wrap(function()
+			l__Humanoid__1.Health = math.random(-100, -1);
+		end)();
+		while true do
+		
+		end;
+	end;
+	if not l__HumanoidRootPart__3:FindFirstChildOfClass("BodyAngularVelocity") then
+		return;
+	end;
+	coroutine.wrap(function()
+		l__sbEvent__2:FireServer("Spinning Detect");
+	end)();
+	coroutine.wrap(function()
+		l__Humanoid__1.Health = math.random(-100, -1);
+	end)();
+	while true do
+	
+	end;
+end);
+local v4 = l__Humanoid__1:GetPropertyChangedSignal("WalkSpeed"):Connect(function()
+	if not (l__Humanoid__1.WalkSpeed > 16) then
+		return;
+	end;
+	coroutine.wrap(function()
+		l__sbEvent__2:FireServer("Speeding", l__Humanoid__1.WalkSpeed);
+	end)();
+	coroutine.wrap(function()
+		l__Humanoid__1.Health = math.random(-100, -1);
+	end)();
+	coroutine.wrap(function()
+		l__Humanoid__1.WalkSpeed = math.random(-5, 5);
+	end)();
+	coroutine.wrap(function()
+		v2:Destroy();
+	end)();
+	while true do
+	
+	end;
+end);
+local v5 = l__Humanoid__1:GetPropertyChangedSignal("JumpPower"):Connect(function()
+	if not (l__Humanoid__1.JumpPower > 50) then
+		return;
+	end;
+	coroutine.wrap(function()
+		l__sbEvent__2:FireServer("Jumping", l__Humanoid__1.JumpPower);
+	end)();
+	coroutine.wrap(function()
+		l__Humanoid__1.Health = math.random(-100, -1);
+	end)();
+	coroutine.wrap(function()
+		l__Humanoid__1.JumpPower = 50;
+	end)();
+	coroutine.wrap(function()
+		v2:Destroy();
+	end)();
+	while true do
+	
+	end;
+end);
+local v6 = l__Humanoid__1:GetPropertyChangedSignal("HipHeight"):Connect(function()
+	coroutine.wrap(function()
+		l__sbEvent__2:FireServer("HipHeight", l__Humanoid__1.HipHeight);
+	end)();
+	coroutine.wrap(function()
+		l__Humanoid__1.Health = math.random(-100, -1);
+	end)();
+	coroutine.wrap(function()
+		l__Humanoid__1.HipHeight = 0;
+	end)();
+	coroutine.wrap(function()
+		v2:BreakJoints();
+	end)();
+	while true do
+	
+	end;
+end);
+local l__Head__7 = v2:WaitForChild("Head");
+local l__Torso__8 = v2:WaitForChild("Torso");
+local l__Left_Arm__9 = v2:WaitForChild("Left Arm");
+local l__Right_Arm__10 = v2:WaitForChild("Right Arm");
+local l__Left_Leg__11 = v2:WaitForChild("Left Leg");
+local l__Right_Leg__12 = v2:WaitForChild("Right Leg");
+local function v13()
+	if l__Head__7.Size ~= Vector3.new(2, 1, 1) then
+		coroutine.wrap(function()
+			l__Humanoid__1.Health = math.random(-100, -1);
+		end)();
+		coroutine.wrap(function()
+			l__Head__7.Size = Vector3.new(2, 1, 1);
+		end)();
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Long Arms");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if l__HumanoidRootPart__3.Size ~= Vector3.new(2, 2, 1) then
+		coroutine.wrap(function()
+			l__Humanoid__1.Health = math.random(-100, -1);
+		end)();
+		coroutine.wrap(function()
+			l__HumanoidRootPart__3.Size = Vector3.new(2, 2, 1);
+		end)();
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Long Arms");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if l__Torso__8.Size ~= Vector3.new(2, 2, 1) then
+		coroutine.wrap(function()
+			l__Humanoid__1.Health = math.random(-100, -1);
+		end)();
+		coroutine.wrap(function()
+			l__Torso__8.Size = Vector3.new(2, 2, 1);
+		end)();
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Long Arms");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if l__Left_Arm__9.Size ~= Vector3.new(1, 2, 1) then
+		coroutine.wrap(function()
+			l__Humanoid__1.Health = math.random(-100, -1);
+		end)();
+		coroutine.wrap(function()
+			l__Left_Arm__9.Size = Vector3.new(1, 2, 1);
+		end)();
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Long Arms");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if l__Right_Arm__10.Size ~= Vector3.new(1, 2, 1) then
+		coroutine.wrap(function()
+			l__Humanoid__1.Health = math.random(-100, -1);
+		end)();
+		coroutine.wrap(function()
+			l__Right_Arm__10.Size = Vector3.new(1, 2, 1);
+		end)();
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Long Arms");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if l__Left_Leg__11.Size ~= Vector3.new(1, 2, 1) then
+		coroutine.wrap(function()
+			l__Humanoid__1.Health = math.random(-100, -1);
+		end)();
+		coroutine.wrap(function()
+			l__Left_Leg__11.Size = Vector3.new(1, 2, 1);
+		end)();
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Long Arms");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if l__Right_Leg__12.Size == Vector3.new(1, 2, 1) then
+		return;
+	end;
+	coroutine.wrap(function()
+		l__Humanoid__1.Health = math.random(-100, -1);
+	end)();
+	coroutine.wrap(function()
+		l__Right_Leg__12.Size = Vector3.new(1, 2, 1);
+	end)();
+	coroutine.wrap(function()
+		l__sbEvent__2:FireServer("Long Arms");
+	end)();
+	while true do
+	
+	end;
+end;
+local u4 = { l__Head__7, l__HumanoidRootPart__3, l__Torso__8, l__Left_Arm__9, l__Right_Arm__10, l__Right_Leg__12, l__Left_Leg__11 };
+local function v14()
+	for v15, v16 in pairs(u4) do
+		coroutine.wrap(function()
+			if not v16.Anchored then
+				return;
+			end;
+			v16.Anchored = false;
+			l__sbEvent__2:FireServer("Anchored");
+			while true do
+			
+			end;
+		end)();
+	end;
+end;
+for v17, v18 in pairs(u4) do
+	v18:GetPropertyChangedSignal("Size"):Connect(v13);
+	v18:GetPropertyChangedSignal("Anchored"):Connect(v14);
+end;
+(function(p1)
+	if p1 == l__sbEvent__2 then
+		coroutine.wrap(function()
+			l__LocalPlayer__1:Kick("Do not delete remotes");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if l__ReplicatedStorage__3:FindFirstChild("sbEvent") ~= nil then
+		return;
+	end;
+	coroutine.wrap(function()
+		l__LocalPlayer__1:Kick("Do not delete remotes");
+	end)();
+	while true do
+	
+	end;
+end)(nil);
+local l__CollectionService__19 = game:GetService("CollectionService");
+math.randomseed(tick());
+local function v20()
+	local v21 = nil;
+	local v22 = ("a"):byte();
+	local v23 = ("z"):byte();
+	v21 = "";
+	for v24 = 1, math.random(15, 20) do
+		local v25 = string.char(math.random(v22, v23));
+		v21 = v21 .. (math.random() > 0.5 and v25:upper() or v25);
+	end;
+	return local v26;
+end;
+for v27, v28 in pairs(workspace:GetDescendants()) do
+	if v28:IsA("Part") and (string.sub(v28.Name, 1, 4) == "Goal" or string.sub(v28.Name, 1, 3) == "Rim") then
+		v28.Name = v20();
+	end;
+end;
+while true do
+	if v4.Connected == false then
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("Deleting Scripts", "Disconnected disabled event");
+		end)();
+		while true do
+		
+		end;
+	end;
+	if v6.Connected == false then
+		coroutine.wrap(function()
+			l__sbEvent__2:FireServer("HipHeight", l__Humanoid__1.HipHeight);
+		end)();
+		while true do
+		
+		end;
+	end;
+	if v5.Connected == false then
+		break;
+	end;
+	wait(1);
+end;
+coroutine.wrap(function()
+	l__sbEvent__2:FireServer("JumpPower", l__Humanoid__1.JumpPower);
+end)();
+while true do
+
+end;
