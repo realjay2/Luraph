@@ -1,4 +1,3 @@
-
 script.Disabled = true;
 task.wait();
 script:Destroy();
@@ -247,7 +246,7 @@ local function v20()
 		local v25 = string.char(math.random(v22, v23));
 		v21 = v21 .. (math.random() > 0.5 and v25:upper() or v25);
 	end;
-	return local v26;
+	return
 end;
 for v27, v28 in pairs(workspace:GetDescendants()) do
 	if v28:IsA("Part") and (string.sub(v28.Name, 1, 4) == "Goal" or string.sub(v28.Name, 1, 3) == "Rim") then
